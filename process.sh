@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#new function
+echo "new function"
 # Download bam files and call peaks.
 
 ENCODE=https://www.encodeproject.org/files
